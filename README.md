@@ -5,3 +5,7 @@ interests and goals as I build my portfolio.
 - Skill: Learning C programming and web development (HTML, CSS, JavaScript)
 - Interest: building small web apps
 - Goal: contribute to open source
+## Projects
+
+- Hello World setup in C and C++ using VS Code and MinGW-w64 (Activity 1).
+- Planning a small web project in HTML, CSS and JavaScript.
